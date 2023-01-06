@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Mono:wght@300&family=Roboto:wght@300&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #4f4a4d;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #f9dad5;
+}
+
+h1 {
+  font-family: "Bebas Neue", Impact, Haettenschweiler, "Arial Narrow Bold",
+    sans-serif;
+  margin-bottom: 0.25rem;
+}
+
+a {
+  font-family: "Roboto", Impact, Haettenschweiler, "Arial Narrow Bold",
+    sans-serif;
+  color: #ef9d8d;
+}
+
+.onerpm-iframe {
+  width: 360px;
+  height: 850px;
+  border: none;
+  border-radius: 5px;
+}
